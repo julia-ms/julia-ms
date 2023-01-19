@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/julia-ms">
-  <img height="180em" width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-ms&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-ms&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/julia-ms)](https://github.com/julia-ms)
